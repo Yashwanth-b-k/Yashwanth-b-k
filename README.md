@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm yashwanth</h1>
 <h3 align="center">A passionate full stack developer and learner.</h3>
 
-- 🔭 I’m currently working on **my portfolio website**
 
 - 💬 Ask me about **MERN**
 
