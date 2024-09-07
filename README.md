@@ -20,3 +20,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashwanth-gowda-bk&show_icons=true&locale=en" alt="yashwanth-gowda-bk" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashwanth-gowda-bk&" alt="yashwanth-gowda-bk" /></p>
+
+![](https://leetcard.jacoblin.cool/yashwanthgowdabk1?ext=heatmap)
