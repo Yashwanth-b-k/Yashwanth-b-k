@@ -23,4 +23,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashwanth-gowda-bk&" alt="yashwanth-gowda-bk" /></p>
 
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/yashwanthgowdabk1?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/yashvvanth_1?ext=heatmap)
