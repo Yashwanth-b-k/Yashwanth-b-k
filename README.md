@@ -1,3 +1,4 @@
+![Profile views](https://komarev.com/ghpvc/?username=Yashwanth-b-k&color=blue)
 <h1 align="center">Hi 👋, I'm yashwanth</h1>
 <h3 align="center">A passionate full stack developer and learner.</h3>
 
